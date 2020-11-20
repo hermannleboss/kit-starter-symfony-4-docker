@@ -1,0 +1,1 @@
+Create a folder data and paste your symfony project filles in it
